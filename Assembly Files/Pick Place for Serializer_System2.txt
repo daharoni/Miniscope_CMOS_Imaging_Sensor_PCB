@@ -1,0 +1,66 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J2         2pin_smd_pad_for_LED_connector         44mil         39mil         44mil         39mil     24.315mil         39mil  B        360.00 2 Pin Connector
+R1         SMD_RES_0402           412mil        485mil        412mil        485mil    394.283mil        485mil  T        180.00 500            
+D1         LED_0603               480mil        490mil        480mil        490mil        480mil      462.5mil  T         90.00 LED 0603       
+C27        SMD_CAP_0402           392mil        403mil        392mil        403mil        392mil    420.717mil  T         90.00 4.7uF          
+R14        SMD_RES_0402           197mil        570mil        197mil        570mil        197mil    587.717mil  T         90.00 10k            
+C26        SMD_CAP_0402           424mil        403mil        424mil        403mil        424mil    420.717mil  T         90.00 100nF          
+C25        SMD_CAP_0402           292mil        265mil        292mil        265mil        292mil    282.717mil  T         90.00 100nF          
+C5         SMD_CAP_0402           261mil        570mil        261mil        570mil        261mil    587.717mil  T         90.00 0.1uF          
+C6         SMD_CAP_0402           293mil        570mil        293mil        570mil        293mil    587.717mil  T         90.00 0.01uF         
+C7         SMD_CAP_0402           152mil        287mil        152mil        287mil    134.283mil        287mil  T        180.00 0.1uF          
+C8         SMD_CAP_0402           152mil        255mil        152mil        255mil    134.283mil        255mil  T        180.00 0.01uF         
+C9         SMD_CAP_0402           152mil        223mil        152mil        223mil    134.283mil        223mil  T        180.00 4.7uF          
+C10        SMD_CAP_0402           219mil        287mil        219mil        287mil    201.283mil        287mil  T        180.00 0.1uF          
+C11        SMD_CAP_0402           219mil        255mil        219mil        255mil    201.283mil        255mil  T        180.00 0.01uF         
+C12        SMD_CAP_0402           219mil        223mil        219mil        223mil    201.283mil        223mil  T        180.00 4.7uF          
+C13        SMD_CAP_0402           325mil        570mil        325mil        570mil        325mil    587.717mil  T         90.00 0.1uF          
+C14        SMD_CAP_0402           357mil        570mil        357mil        570mil        357mil    587.717mil  T         90.00 0.01uF         
+C15        SMD_CAP_0402       340.977mil    282.543mil    340.977mil    282.543mil    358.693mil    282.543mil  T        360.00 0.1uF          
+C16        SMD_CAP_0402       340.977mil    250.543mil    340.977mil    250.543mil    358.693mil    250.543mil  T        360.00 0.01uF         
+C17        SMD_Capacitor_0603    336.977mil    209.543mil    336.977mil    209.543mil    364.477mil    209.543mil  T        360.00 22uF           
+C18        SMD_CAP_0402           272mil        176mil        272mil        176mil        272mil    158.283mil  T        270.00 0.1uF          
+C19        SMD_CAP_0402           240mil        174mil        240mil        174mil        240mil    156.283mil  T        270.00 0.047uF        
+C20        SMD_CAP_0402           199mil        122mil        199mil        122mil    216.717mil        122mil  B        360.00 10uF           
+C1         SMD_Capacitor_0603         25mil        328mil         25mil        328mil         25mil      355.5mil  T         90.00 10uF           
+C2         SMD_Capacitor_0603         87mil        494mil         87mil        494mil       59.5mil        494mil  T        180.00 22uF           
+C3         SMD_CAP_0402            53mil        550mil         53mil        550mil         53mil    532.283mil  T        270.00 2.2uF          
+C4         SMD_CAP_0402           165mil        570mil        165mil        570mil        165mil    587.717mil  T         90.00 4.7uF          
+C21        SMD_Capacitor_0603         25mil        227mil         25mil        227mil         25mil      254.5mil  T         90.00 4.7uF          
+C22        SMD_CAP_0402            62mil        212mil         62mil        212mil         62mil    229.717mil  T         90.00 .1uF           
+J1         SSMCX_Throughhole_Molex        302mil         76mil        302mil         76mil    260.661mil    117.339mil  T          0.00 Coax Connector 
+L3         BLM18KG601SN1D         175mil        182mil        175mil        182mil      202.5mil        182mil  T        180.00 Ferrite Bead   
+L4         BLM18KG601SN1D         337mil        164mil        337mil        164mil      309.5mil        164mil  T          0.00 Ferrite Bead   
+L1         LQM21PN2R2MC0D          86mil        438mil         86mil        438mil     51.157mil        438mil  T        360.00 Ferrite Bead   
+L2         LQM21PN2R2MC0D         112mil        581mil        112mil        581mil        112mil    615.842mil  T        270.00 Ferrite Bead   
+L5         BLM18KG601SN1D          98mil        227mil         98mil        227mil         98mil      199.5mil  T         90.00 Ferrite Bead   
+L6         CIG21L4R7MNE           197mil     67.308mil        197mil     67.308mil        197mil    102.151mil  T        270.00 Ferrite Bead   
+L7         CBC3225T101MR           64mil         90mil         64mil         90mil         64mil     34.685mil  T         90.00 Ferrite Bead   
+R3         SMD_RES_0402           190mil        144mil        190mil        144mil    172.283mil        144mil  T        180.00 49.9           
+R4         SMD_RES_0402           132mil        122mil        132mil        122mil    149.717mil        122mil  B        360.00 10k            
+R5         SMD_RES_0402           132mil         90mil        132mil         90mil    114.283mil         90mil  B        180.00 10k            
+R6         SMD_RES_0402           199mil         90mil        199mil         90mil    181.283mil         90mil  B        180.00 100k           
+R7         SMD_RES_0402           488mil        403mil        488mil        403mil        488mil    420.717mil  T         90.00 3.3k           
+R8         SMD_RES_0402           456mil        403mil        456mil        403mil        456mil    420.717mil  T         90.00 3.3k           
+R2         SMD_RES_0402            20mil        550mil         20mil        550mil         20mil    567.717mil  T         90.00 100k           
+R9         SMD_RES_0402           144mil         46mil        144mil         46mil        144mil     28.283mil  T        270.00 1k             
+R10        SMD_RES_0402           144mil        113mil        144mil        113mil        144mil    130.717mil  T         90.00 1k             
+R11        SMD_RES_0402           396mil        185mil        396mil        185mil        396mil    167.283mil  T        270.00 1k             
+R12        SMD_RES_0402           475mil        130mil        475mil        130mil    492.717mil        130mil  B        360.00 10             
+R13        SMD_RES_0402           428mil        185mil        428mil        185mil        428mil    167.283mil  T        270.00 1.25k          
+U3         WQFN32_for_DS90UB913A        257mil        423mil        257mil        423mil    162.512mil    491.898mil  T          0.00 DS90UR913A     
+U1         DSG8-1600X900TP         97mil        353mil         97mil        353mil     67.472mil    315.598mil  T         90.00 TPS62172DSGT   
+U2         DRY6                    35mil        614mil         35mil        614mil     50.157mil    594.315mil  T        180.00 TPS62231DRYT   
+U4         LT-DD-8_V              439mil         79mil        439mil         79mil    468.528mil    134.118mil  T        270.00 LT3092EDD#PBF  
+U5         TI-DBV6_M              448mil        294mil        448mil        294mil    410.598mil    246.756mil  T         90.00 DAC5571IDBVR   
+C23        SMD_CAP_0402           492mil        185mil        492mil        185mil        492mil    167.283mil  T        270.00 100nF          
+C24        SMD_CAP_0402           460mil        185mil        460mil        185mil        460mil    167.283mil  T        270.00 1uF            
+S1         CMOS_Sensor_MT9V032_HD        255mil        395mil        255mil        395mil    444.882mil    379.252mil  B         90.00 CMOS Sensor MT9V032
+u6         OSC_SG_211SCE_26MHz        439mil        593mil        439mil        593mil    472.464mil    618.591mil  T        270.00 OSC_26MHz_EPSON
+C30        SMD_CAP_0402           181mil        625mil        181mil        625mil    163.283mil        625mil  T        180.00 100nF          
+C28        SMD_CAP_0402           342mil        625mil        342mil        625mil    324.283mil        625mil  T        180.00 100nF          
+C29        SMD_CAP_0402           261mil        625mil        261mil        625mil    278.717mil        625mil  T        360.00 4.7uF          
+C31        SMD_CAP_0402           412mil        518mil        412mil        518mil    394.283mil        518mil  T        180.00 10nF           
+C32        SMD_CAP_0402           229mil        570mil        229mil        570mil        229mil    587.717mil  T         90.00 100nF          
+
