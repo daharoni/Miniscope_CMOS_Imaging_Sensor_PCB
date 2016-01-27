@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Serializer_System2.PcbDoc   6/16/2015  12:22:56 PM
+NCDrill File Report For: Serializer_System2.PcbDoc   9/28/2015  12:46:58 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,11 @@ ASCII RoundHoles File : Serializer_System2.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        7mil (0.1778mm)          Round          41               2.90 Inch (73.72 mm)
-T2        7.87mil (0.1999mm)       Round          15               1.09 Inch (27.61 mm)
-T3        10mil (0.254mm)          Round          19               2.36 Inch (59.96 mm)
+T1        7mil (0.1778mm)          Round          59               3.56 Inch (90.42 mm)
+T2        7.87mil (0.1999mm)       Round          15               1.03 Inch (26.18 mm)
+T3        37.4mil (0.94996mm)      Round          4                0.25 Inch (6.30 mm)
+T4        39.37mil (1mm)           Round          1                0.00 Inch (0.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            75               6.35 Inch (161.29 mm)
+Totals                                            79               4.84 Inch (122.90 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
